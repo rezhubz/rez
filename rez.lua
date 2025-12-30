@@ -1,7 +1,7 @@
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rezhubz/Intro/refs/heads/main/rez.lua"))()
 
-task.wait(10)
+task.wait(1)
 
 local gameList = {
     --[286090429]     = "https://raw.githubusercontent.com/anhlamgixungdangvoiem/asenal/refs/heads/main/rezcdvn.lua", -- Arsenal
