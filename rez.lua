@@ -4,12 +4,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/rezhubz/Intro/refs/he
 task.wait(1)
 
 local gameList = {
-    --[286090429]     = "https://raw.githubusercontent.com/anhlamgixungdangvoiem/asenal/refs/heads/main/rezcdvn.lua", -- Arsenal
+    [131623223084840] = "https://raw.githubusercontent.com/rezhubz/Escape-Tsunami-For-Brainrots/refs/heads/main/rez.lua", -- Escape-Tsunami-For-Brainrots
     [18192562963]     = "https://raw.githubusercontent.com/rezhubz/CDVN/refs/heads/main/rez.lua", -- CDVN
+    [94941998730756]  = "https://raw.githubusercontent.com/rezhubz/CDVN/refs/heads/main/rez.lua", -- CDVN Var Đơn
     [126509999114328] = "https://raw.githubusercontent.com/rezhubz/99-Night/refs/heads/main/rez.lua", -- 99 Night
    	[79546208627805]  = "https://raw.githubusercontent.com/rezhubz/Intro/refs/heads/main/rez.lua", -- 99 Night Loader
-    [94941998730756]  = "https://raw.githubusercontent.com/rezhubz/CDVN/refs/heads/main/rez.lua", -- CDVN Var Đơn
-    --[80469437126309]= "https://raw.githubusercontent.com/anhlamgixungdangvoiem/MM2z/refs/heads/main/mm2.lua", -- MM2
 }
 
 local crack = gameList[game.PlaceId]
