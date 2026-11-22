@@ -1,8 +1,4 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rezhubz/Intro/refs/heads/main/rez.lua"))()
-
-task.wait(1)
-
 local v = {
     [18192562963]     = "https://raw.githubusercontent.com/rezhubz/CDVN/refs/heads/main/rez.lua", -- CDVN VNG
     [17541114784]     = "https://raw.githubusercontent.com/rezhubz/CDVN/refs/heads/main/rez.lua", -- CDVN QT
